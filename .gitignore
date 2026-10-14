@@ -1,0 +1,4 @@
+.build/
+LAN Monitor.app/
+.DS_Store
+.swiftpm/
